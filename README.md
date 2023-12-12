@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nodgez
-- 👀 I’m interested in Unity game develpment & cryptocurrencies
+- 👀 I’m interested in Unity game develpment
 
 <!---
 Nodgez/Nodgez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
